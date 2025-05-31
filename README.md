@@ -1,2 +1,4 @@
-## use your numberpad's divide(/) to run the code 
-## use your numberpad's multiply(*) to pause the code
+## How to use
+Press numberpad's divide(/) to run the script
+Press numberpad's multiply(*) to pause the script
+Press esc to close the script
